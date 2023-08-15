@@ -1,3 +1,3 @@
-# FinanceProjects
+# Quantitative Analysis on Amazon Stock
 
 #### "In this project, we delve into quantitative analytical techniques for assessing stock price fluctuations using Python and the pandas library. Additionally, we explore functionalities within NumPy and SciPy. The project serves as a foundational guide to employing pandas for quantitative stock analysis. Specifically, our focus encompasses determining the potential normal distribution of stock price changes, evaluating potential directional biases in daily shifts (positively or negatively), and investigating whether price movements align with the concept of a random walk. The primary objective is to cultivate a comfortable proficiency in utilizing Python and pandas for stock analysis."
